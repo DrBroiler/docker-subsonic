@@ -1,6 +1,6 @@
 FROM drbroiler/alpine
 
-MAINTAINER info@sascha-braeuer.de
+MAINTAINER github@drbroiler.de
 
 ENV SUBSONIC_UID=1000
 ENV SUBSONIC_GID=1000
